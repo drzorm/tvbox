@@ -41,21 +41,6 @@
       "changeable": 0
     },
     {
-      "key": "玩偶",
-      "name": "玩偶哥(网盘)",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
-      }
-    },
-    {
       "key": "原创",
       "name": "原创",
       "type": 3,
@@ -147,36 +132,6 @@
       "changeable": 1
     },
     {
-      "key": "AppSj",
-      "name": "视界",
-      "type": 3,
-      "api": "csp_AppSj",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "可可",
-      "name": "可可",
-      "type": 3,
-      "api": "csp_Kekys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "alllive",
-      "name": "一直播LIVE",
-      "type": 3,
-      "api": "csp_Alllive",
-      "playerType": 2,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "Lib",
       "name": "立播",
       "type": 3,
@@ -219,20 +174,6 @@
       "ext": "https://www.100km.top/js/NY影院.js"
     },
     {
-      "key": "drpy_js_楚门影院",
-      "name": "楚门影院[js]",
-      "type": 3,
-      "api": "https://www.100km.top/lib/drpy2.min.js",
-      "ext": "https://www.100km.top/js/楚门影院.js"
-    },
-    {
-      "key": "drpy_js_B站影视",
-      "name": "B站影视[js]",
-      "type": 3,
-      "api": "https://www.100km.top/lib/drpy2.min.js",
-      "ext": "https://www.100km.top/js/B站影视.js"
-    },
-    {
       "key": "drpy_js_奇米动漫",
       "name": "奇米动漫[js]",
       "type": 3,
@@ -273,21 +214,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "Anime1",
-      "name": "日本动漫",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "暴风",
-      "name": "暴风",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod"
     },
     {
       "key": "量子",
@@ -371,84 +297,6 @@
         "港台动漫",
         "海外动漫"
       ]
-    },
-    {
-      "key": "米搜",
-      "name": "小米(网盘搜)",
-      "type": 3,
-      "api": "csp_MIPanSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "抠搜",
-      "name": "抠抠(网盘搜)",
-      "type": 3,
-      "api": "csp_KkSs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "UC",
-      "name": "优汐(网盘搜)",
-      "type": 3,
-      "api": "csp_UuSs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "YiSo",
-      "name": "易搜(网盘搜)",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "PanSso",
-      "name": "搜搜(网盘搜)",
-      "type": 3,
-      "api": "csp_PanSso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "YpanSo",
-      "name": "一盘(网盘搜)",
-      "type": 3,
-      "api": "csp_YpanSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
     },
     {
       "key": "Bili",
